@@ -1,0 +1,2 @@
+# GitPodstawy
+nauka gita
